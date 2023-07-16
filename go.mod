@@ -1,3 +1,3 @@
-module uberbrodt/fungo
+module github.com/uberbrodt/fungo
 
 go 1.20
